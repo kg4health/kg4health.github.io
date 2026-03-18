@@ -921,7 +921,7 @@ section,
 }
 
 .hero h2 span {
-  color: var(--contrast-color);
+  color: var(--accent-color);
 }
 
 .hero p {
